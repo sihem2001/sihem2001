@@ -1,5 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=35)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-white.gif" width="100%" alt="Frontend Developer Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
