@@ -1,6 +1,4 @@
-<p align="center">
-  <img src= "IMG_0524.jpeg" alt="Banner" width="100%">
-</p>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
