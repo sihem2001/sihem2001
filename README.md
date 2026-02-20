@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-white.gif" width="100%" alt="Frontend Developer Banner" />
+  <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-white.gif](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)" width="100%" alt="Frontend Developer Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Hana</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
